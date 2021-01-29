@@ -1,0 +1,23 @@
+[Domain] https://verify-unsecuredevice.com/
+[Ip] 185.61.152.66
+[link]https://verify-unsecuredevice.com/online/Login.phphttp://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd
+[link]https://verify-unsecuredevice.com/online/Login.phphttp://www.w3.org/1999/xhtml
+[link]https://verify-unsecuredevice.com/online/Login.php
+[link]https://verify-unsecuredevice.com/online/Login.php./files/img/ltsb%2057x57-.JPG
+[link]https://verify-unsecuredevice.com/online/Login.php./files/img/ltsb%20114x114-.JPG
+[link]https://verify-unsecuredevice.com/online/Login.php./files/css/base-auto-min200720.css
+[link]https://verify-unsecuredevice.com/online/Login.php./files/img/favicon.ico
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/personal/a/mobile/mobile_help/login/COOKIE_POLICY
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://www.online.lloydsbank.co.uk/
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/personal/a/mobile/mobile_help/login/REMEMBER_ME
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/ib-access/cwa/forgotten-details/index.html
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://www.lloydsbank.com/loans.html?WT.ac=lon/public/navigation/ban/r1pr/loan/s/rl/LLnsNGBonB
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/personal/a/useradmin/mobile/registration/selectaccounttyperegistration.jsp?mobile=true
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/personal/logon/login.jsp?mobile=false
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/personal/a/mobile/mobile_help/login/HELP
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/personal/a/mobile/mobile_help/login/SECURITY
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/personal/a/mobile/mobile_help/login/CONTACT_US
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/personal/a/mobile/mobile_help/login/MOBILE_BANKING
+[link]https://verify-unsecuredevice.com/online/Login.phphttps://online.lloydsbank.co.uk/personal/a/mobile/mobile_help/login/LEGAL
+[link]https://verify-unsecuredevice.com/online/Login.phphttp://www.lloydsbank.com/legal/financial-services-compensation-scheme.asp
+[200] https://verify-unsecuredevice.com/online/Login.php/

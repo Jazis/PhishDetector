@@ -1,0 +1,16 @@
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PROGRAM.exe
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PROGRAM.deps.json
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PROGRAM.runtimeconfig.json
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PROGRAM.runtimeconfig.dev.json
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PROGRAM.dll
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PROGRAM.pdb
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PROGRAM.csprojAssemblyReference.cache
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PROGRAM.AssemblyInfoInputs.cache
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PROGRAM.AssemblyInfo.cs
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PROGRAM.csproj.CoreCompileInputs.cache
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PROGRAM.csproj.CopyComplete
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PROGRAM.dll
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PROGRAM.pdb
+C:\Users\Jazis\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PROGRAM.genruntimeconfig.cache
